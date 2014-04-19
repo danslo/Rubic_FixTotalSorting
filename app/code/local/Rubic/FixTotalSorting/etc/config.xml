@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<config>
+    <global>
+        <sales>
+            <quote>
+                <totals>
+                    <msrp>
+                        <before>grand_total</before>
+                    </msrp>
+                </totals>
+            </quote>
+        </sales>
+    </global>
+</config>
